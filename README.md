@@ -58,5 +58,5 @@
 
 <!-- Floating emoji -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjAwYWMwa2hxd2syZzJkenZxeDQzdzQzMmFna2JwZGpmZTA3MTF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yx5ns1mSPBle0/giphy.gif" width="69%">
+  <img src="https://raw.githubusercontent.com/shashi232/shashi232/output/snake.svg" alt="Snake animation" />
 </div>
