@@ -145,7 +145,7 @@ $ cat focus.txt
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shashi232&repo=shashi232.github.io&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=8899AA)](https://github.com/shashi232/shashi232.github.io)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shashi232&repo=shashi232.github.io&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=8899AA)](https://shashikantsharma.tech)
 &nbsp;
 [![Profile Repo](https://github-readme-stats.vercel.app/api/pin/?username=shashi232&repo=shashi232&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=8899AA)](https://github.com/shashi232/shashi232)
 
