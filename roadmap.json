@@ -1,0 +1,15 @@
+{
+  "skills": [
+    { "name": "Linux Fundamentals",       "percent": 100, "status": "✅" },
+    { "name": "Git & GitHub",             "percent": 100, "status": "✅" },
+    { "name": "Python Scripting",         "percent": 80,  "status": "✅" },
+    { "name": "Docker & Containers",      "percent": 70,  "status": "✅" },
+    { "name": "AWS Cloud (EC2/S3/IAM)",   "percent": 40,  "status": "🔄" },
+    { "name": "CI/CD (GitHub Actions)",   "percent": 35,  "status": "🔄" },
+    { "name": "Kubernetes",               "percent": 20,  "status": "⏳" },
+    { "name": "Terraform / IaC",          "percent": 15,  "status": "⏳" },
+    { "name": "Monitoring (Prometheus)",  "percent": 10,  "status": "⏳" },
+    { "name": "Jenkins",                  "percent": 10,  "status": "⏳" },
+    { "name": "Ansible",                  "percent": 5,   "status": "⏳" }
+  ]
+}
