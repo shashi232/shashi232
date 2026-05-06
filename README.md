@@ -15,7 +15,7 @@
 &nbsp;
 <a href="mailto:shahikantsharmasks2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://shashi232.github.io"><img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat-square&logo=vercel&logoColor=black" /></a>
+<a href="https://shashikantsharma.tech"><img src="https://img.shields.io/badge/-shashikantsharma.tech-00E5FF?style=flat-square&logo=vercel&logoColor=black" /></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=shashi232&label=Visitors&color=00E5FF&style=flat-square" />
 
@@ -77,18 +77,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=shashi232&show_icons=true&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=8899AA&bg_color=0d1117&include_all_commits=true&count_private=true" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi232&layout=compact&theme=github_dark&hide_border=true&title_color=00E5FF&text_color=8899AA&bg_color=0d1117&langs_count=8" />
-</td>
-</tr>
-</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashi232&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&sideLabels=8899AA&dates=8899AA" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shashi232&show_icons=true&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=8899AA&bg_color=0d1117&count_private=false&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi232&layout=compact&theme=github_dark&hide_border=true&title_color=00E5FF&text_color=8899AA&bg_color=0d1117&langs_count=6" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=shashi232&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&sideLabels=8899AA&dates=8899AA" />
+
 </div>
 
 <br/>
@@ -145,9 +141,10 @@ $ cat focus.txt
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shashi232&repo=shashi232.github.io&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=8899AA)](https://github.com/shashi232/shashi232.github.io)
-&nbsp;
-[![Profile Repo](https://github-readme-stats.vercel.app/api/pin/?username=shashi232&repo=shashi232&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=8899AA)](https://github.com/shashi232/shashi232)
+| 🌐 Project | 📝 Description | 🛠️ Stack |
+|:---|:---|:---:|
+| [**Portfolio Website**](https://shashikantsharma.tech) | Personal DevOps portfolio with live GitHub data & CI/CD | React · GitHub Pages |
+| [**GitHub Profile**](https://github.com/shashi232/shashi232) | This profile README with snake animation & auto-updates | GitHub Actions · Python |
 
 </div>
 
@@ -194,7 +191,7 @@ $ cat focus.txt
 |:---:|:---|
 | 💼 LinkedIn | [shashi-kant-sharma](https://linkedin.com/in/shashi-kant-sharma) |
 | 💻 LeetCode | [shashi_kant_sharma](https://www.leetcode.com/shashi_kant_sharma) |
-| 🌐 Portfolio | [shashi232.github.io](https://shashi232.github.io) |
+| 🌐 Portfolio | [shashikantsharma.tech](https://shashikantsharma.tech) |
 | 📧 Email | [shahikantsharmasks2@gmail.com](mailto:shahikantsharmasks2@gmail.com) |
 | 🐙 GitHub | [@shashi232](https://github.com/shashi232) |
 
